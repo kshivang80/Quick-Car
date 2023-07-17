@@ -15,7 +15,7 @@ Rent a car for airport pickups, grocery shopping, mall visits, upcoming weddings
 # Login Page
 ![Screenshot (442)](https://user-images.githubusercontent.com/101388724/213978446-dbfbdb2d-4ee0-4823-8f77-a27051bfcc10.png)
 
-# Car Page (Click UNMATCHED BENEFITS section)
+# Car Page (Click UNMATCHED BENEFITS section for this page)
 ![Screenshot (444)](https://user-images.githubusercontent.com/101388724/213978628-a8878d82-a726-46f4-b2b6-f6d02f65bc47.png)
 
 # Single Pages
