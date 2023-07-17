@@ -15,8 +15,12 @@ Rent a car for airport pickups, grocery shopping, mall visits, upcoming weddings
 # Login Page
 ![Screenshot (442)](https://user-images.githubusercontent.com/101388724/213978446-dbfbdb2d-4ee0-4823-8f77-a27051bfcc10.png)
 
-# Car Page
+# Car Page (Click UNMATCHED BENEFITS section)
 ![Screenshot (444)](https://user-images.githubusercontent.com/101388724/213978628-a8878d82-a726-46f4-b2b6-f6d02f65bc47.png)
+
+# Single Pages
+![image](https://github.com/kshivang80/Quick-Car/assets/103144321/3db40923-6dc0-4c28-b005-644409080b8a)
+
 
 # Checkout Page
 ![Screenshot (449)](https://user-images.githubusercontent.com/101388724/213978718-3a093a30-bbd5-4637-a907-fde0545ebe5b.png)
